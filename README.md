@@ -3,7 +3,8 @@ As we move towards more automated cybersecurity solutions, the need of public pr
 
 Following are the list of Benchmarks as well as bugs found
 
-|-   | Github   | Website/links/article/whitepapers|
-|--- | -------  | ---------------------------------|
-|1.  | CTFBench | [website](https://ctfbench.com/) [whitepaper](https://github.com/auditdbio/ctfbench/blob/main/ctfbench.md)  |
+|-   | Github    | By |Website/links/article/whitepapers |
+|--- | -------   |----| ---------------------------------|
+|1.  | [SCONE-bench (Smart CONtract Exploitation benchmark)](https://github.com/safety-research/SCONE-bench) | Anthropic | [Article](https://red.anthropic.com/2025/smart-contracts/) |
+|2.  | [CTFBench](https://github.com/auditdbio/ctfbench/tree/main)  | auditdb | [website](https://ctfbench.com/) [whitepaper](https://github.com/auditdbio/ctfbench/blob/main/ctfbench.md)  |
 
