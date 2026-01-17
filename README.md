@@ -10,4 +10,5 @@ As we move towards more automated cybersecurity solutions, the need of public pr
 |--- | -------   |----| ---------------------------------|
 |1.  | [SCONE-bench (Smart CONtract Exploitation benchmark)](https://github.com/safety-research/SCONE-bench) | Anthropic | [Article](https://red.anthropic.com/2025/smart-contracts/) |
 |2.  | [CTFBench](https://github.com/auditdbio/ctfbench/tree/main)  | auditdb | [website](https://ctfbench.com/) [whitepaper](https://github.com/auditdbio/ctfbench/blob/main/ctfbench.md)  |
+|3.  | [ScaBench](https://github.com/scabench-org/scabench)  | scabench-org |  |
 
