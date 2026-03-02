@@ -1,7 +1,7 @@
 # AI Security Audit Agent Benchmarks
 🚧 This list is not complete and is work in progress. 
 
-> This is not a conclusion or a promotion of any mentioned tool.
+> This is not a conclusion or a promotion of any mentioned tool/benchmark.
 
 As we move towards more automated cybersecurity solutions, the need of public proofs and benchmarks increases. The repository consist of public benchmarks for AI security auditing agents.
 
